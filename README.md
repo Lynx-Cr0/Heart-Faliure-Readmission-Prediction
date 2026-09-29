@@ -1,13 +1,5 @@
 # 🏥 Heart Failure Readmission Prediction
 
-<div align="center">
-  
-  [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org/)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-  [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
-  
-</div>
-
 ---
 
 ## 📌 Overview
@@ -34,7 +26,7 @@ This machine learning project predicts the risk of **heart failure readmission**
 |----------|-------------|
 | **Language** | Python |
 | **Data Processing** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn |
+| **Visualization** | Matplotlib |
 | **Machine Learning** | Scikit-learn |
 | **IDE** | Microsoft VS Code |
 
@@ -133,22 +125,12 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Raunak Das**  
 🔗 [GitHub](https://github.com/Lynx-Cr0)  
-📧 Artificial Intelligence & Machine Learning Enthusiast
 
 ---
 
 <div align="center">
   
-  Made with ❤️ for healthcare AI education
-  
-</div>
